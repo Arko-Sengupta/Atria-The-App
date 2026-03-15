@@ -1,0 +1,42 @@
+[
+  {
+    "Value": "17",
+    "Desc": "Average number of years it takes for scientific breakthroughs to reach doctors' offices",
+    "Source": "Journal of the Royal Society of Medicine"
+  },
+  {
+    "Value": "80%",
+    "Desc": "Percentage of strokes that can be prevented",
+    "Source": "Centers for Disease Control and Prevention"
+  },
+  {
+    "Value": "73",
+    "Desc": "Number of days it takes for medical knowledge to double",
+    "Source": "Transactions of the American Clinical and Climatological Association"
+  },
+  {
+    "Value": "33.6%",
+    "Desc": "Percentage of preventable premature deaths in the U.S. caused by cardiac disease",
+    "Source": "Centers for Disease Control and Prevention"
+  },
+  {
+    "Value": "45%",
+    "Desc": "Percentage of dementia cases that could be prevented or delayed through lifestyle modification",
+    "Source": "The Lancet Commission"
+  },
+  {
+    "Value": "38%",
+    "Desc": "Percentage of Americans with prediabetes, 80% of whom have not been diagnosed",
+    "Source": "Centers for Disease Control and Prevention"
+  },
+  {
+    "Value": "1/2",
+    "Desc": "Ratio of adults in the U.S. who have hypertension, most of which is preventable",
+    "Source": "Centers for Disease Control and Prevention"
+  },
+  {
+    "Value": "90%",
+    "Desc": "Ten-year survival rate for most cancers when they're detected at an early stage",
+    "Source": "Cancer Research UK"
+  }
+]

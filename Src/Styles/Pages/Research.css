@@ -1,0 +1,213 @@
+.res {
+  padding-top: var(--nav-height, 80px);
+}
+
+.res__hero {
+  padding: 6rem 3rem 3rem;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.res__hero-sub {
+  font-family: var(--font-serif);
+  font-size: 1.25rem;
+  font-style: italic;
+  color: var(--color-text-light);
+  letter-spacing: 0.02em;
+  transition-delay: 0.15s;
+}
+
+/* Hero image */
+.res__hero-image {
+  max-width: 1440px;
+  margin: 0 auto 4rem;
+  padding: 0 3rem;
+  overflow: hidden;
+}
+
+.res__hero-image img {
+  width: 100%;
+  height: auto;
+}
+
+/* Generic section */
+.res__section {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 3rem;
+  margin-bottom: var(--section-gap);
+}
+
+.res__section h2 {
+  margin-bottom: 1.75rem;
+}
+
+/* Lead */
+.res__lead {
+  font-family: var(--font-serif);
+  font-size: 1.4rem;
+  line-height: 1.5;
+  color: var(--color-text);
+  letter-spacing: 0.02em;
+  margin-bottom: 1.25rem;
+}
+
+/* Mission */
+.res__mission {
+  background: var(--color-primary);
+  padding: var(--section-gap) 3rem;
+  margin-bottom: var(--section-gap);
+}
+
+.res__mission-inner {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.res__mission h2 {
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.res__mission p {
+  font-family: var(--font-serif);
+  font-size: 1.45rem;
+  font-style: italic;
+  color: rgba(255, 255, 255, 0.85);
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+/* Pillars */
+.res__pillars {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 3rem;
+}
+
+.res__pillar {
+  transition: transform 0.3s ease;
+}
+
+.res__pillar:hover {
+  transform: translateY(-4px);
+}
+
+.res__pillar-num {
+  font-family: var(--font-serif);
+  font-size: 2.75rem;
+  color: var(--color-border);
+  display: block;
+  margin-bottom: 0.75rem;
+  transition: color 0.3s ease;
+}
+
+.res__pillar:hover .res__pillar-num {
+  color: var(--color-primary);
+}
+
+.res__pillar h3 {
+  font-size: 1.15rem;
+  margin-bottom: 0.5rem;
+}
+
+.res__pillar p {
+  font-size: 0.95rem;
+  line-height: 1.75;
+}
+
+/* Stats */
+.res__stats {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0;
+}
+
+/* Fellows */
+.res__fellows {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem 1.5rem;
+}
+
+.res__fellow {
+  text-align: center;
+  padding: 1.5rem 1rem;
+  transition: all 0.3s ease;
+  border: 1px solid transparent;
+}
+
+.res__fellow:hover {
+  border-color: var(--color-border-light);
+  background: rgba(52, 71, 64, 0.02);
+  transform: translateY(-4px);
+}
+
+.res__fellow-avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin: 0 auto 0.85rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgba(255, 255, 255, 0.45);
+  font-family: var(--font-serif);
+  font-size: 1.2rem;
+  letter-spacing: 0.05em;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.res__fellow:hover .res__fellow-avatar {
+  transform: scale(1.08);
+  box-shadow: 0 4px 16px rgba(52, 71, 64, 0.2);
+}
+
+.res__fellow h4 {
+  font-size: 0.9rem;
+  margin-bottom: 0.25rem;
+  line-height: 1.3;
+}
+
+.res__fellow-spec {
+  font-size: 0.78rem;
+  color: var(--color-primary);
+  margin-bottom: 0.15rem;
+}
+
+.res__fellow-aff {
+  font-size: 0.75rem;
+  color: var(--color-text-muted);
+}
+
+.res__fellow-badge {
+  display: inline-block;
+  margin-top: 0.35rem;
+  padding: 0.2rem 0.6rem;
+  font-size: 0.65rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  background: var(--color-primary);
+  color: white;
+}
+
+@media (max-width: 1024px) {
+  .res__section { padding: 0 2rem; }
+  .res__hero-image { padding: 0 2rem; }
+}
+
+@media (max-width: 768px) {
+  .res__pillars { grid-template-columns: 1fr; }
+  .res__stats { grid-template-columns: 1fr; }
+  .res__fellows { grid-template-columns: repeat(2, 1fr); }
+  .res__section { padding: 0 1.25rem; }
+  .res__hero-image { padding: 0 1.25rem; }
+  .res__hero { padding: 4rem 1.25rem 2rem; }
+}
+
+@media (max-width: 480px) {
+  .res__fellows { grid-template-columns: 1fr; max-width: 300px; margin: 0 auto; }
+  .res__hero { padding: 3rem 1rem 2rem; }
+}

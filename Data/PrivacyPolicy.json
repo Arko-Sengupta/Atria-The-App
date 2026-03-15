@@ -1,0 +1,42 @@
+{
+  "Title": "Privacy Policy",
+  "LastUpdated": "January 1, 2026",
+  "Sections": [
+    {
+      "Heading": "Information We Collect",
+      "Content": "We collect information you provide directly to us, such as when you fill out a contact form, subscribe to our newsletter, or inquire about membership. This may include your name, email address, phone number, and any messages you send."
+    },
+    {
+      "Heading": "How We Use Your Information",
+      "Content": "We use the information we collect to respond to your inquiries, process membership requests, send newsletters and health education content, improve our website and services, and comply with legal obligations."
+    },
+    {
+      "Heading": "Information Sharing",
+      "Content": "We do not sell, trade, or rent your personal information to third parties. We may share information with service providers who assist us in operating our website and conducting our business, provided they agree to keep this information confidential."
+    },
+    {
+      "Heading": "Data Security",
+      "Content": "We implement appropriate security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the Internet is 100% secure."
+    },
+    {
+      "Heading": "Cookies",
+      "Content": "Our website uses cookies to enhance your browsing experience. You can set your browser to refuse cookies or alert you when cookies are being sent. Some features of our website may not function properly without cookies."
+    },
+    {
+      "Heading": "Your Rights",
+      "Content": "You have the right to access, correct, or delete your personal information. You may also opt out of receiving marketing communications at any time by following the unsubscribe instructions in our emails or contacting us directly."
+    },
+    {
+      "Heading": "Children's Privacy",
+      "Content": "Our website is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13."
+    },
+    {
+      "Heading": "Changes to This Policy",
+      "Content": "We may update this Privacy Policy periodically. We will notify you of any changes by posting the new policy on this page and updating the \"Last updated\" date."
+    },
+    {
+      "Heading": "Contact Us",
+      "Content": "If you have questions about this Privacy Policy, please contact us at privacy@atria.org."
+    }
+  ]
+}

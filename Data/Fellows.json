@@ -1,0 +1,92 @@
+[
+  {
+    "Name": "David W. Dodick, MD",
+    "Specialty": "Neurology",
+    "Role": "Co-Director",
+    "Affiliation": "Mayo Clinic"
+  },
+  {
+    "Name": "Gregory Poland, MD",
+    "Specialty": "Vaccines",
+    "Role": "Co-Director",
+    "Affiliation": "Mayo Clinic"
+  },
+  {
+    "Name": "Arthur Agatston, MD",
+    "Specialty": "Cardiology; Nutrition",
+    "Role": "Fellow",
+    "Affiliation": "Agatston Center"
+  },
+  {
+    "Name": "Nir Barzilai, MD",
+    "Specialty": "Aging & Genetics",
+    "Role": "Fellow",
+    "Affiliation": "Albert Einstein College"
+  },
+  {
+    "Name": "Robin Carhart-Harris, PhD",
+    "Specialty": "Neuropsychopharmacology",
+    "Role": "Fellow",
+    "Affiliation": "UCSF"
+  },
+  {
+    "Name": "Robert C. Green, MD, MPH",
+    "Specialty": "Genetics",
+    "Role": "Fellow",
+    "Affiliation": "Brigham and Women's"
+  },
+  {
+    "Name": "Paul Friedman, MD",
+    "Specialty": "Cardiology",
+    "Role": "Fellow",
+    "Affiliation": "Mayo Clinic"
+  },
+  {
+    "Name": "Daniel Kraft, MD",
+    "Specialty": "Innovation & Futurism",
+    "Role": "Fellow",
+    "Affiliation": "Singularity University"
+  },
+  {
+    "Name": "Kari Nadeau, MD, PhD",
+    "Specialty": "Allergy / Env. Health",
+    "Role": "Fellow",
+    "Affiliation": "Harvard SPH"
+  },
+  {
+    "Name": "Edward Laskowski, MD",
+    "Specialty": "Sports Medicine",
+    "Role": "Fellow",
+    "Affiliation": "Mayo Clinic"
+  },
+  {
+    "Name": "Phyllis Zee, MD, MPH",
+    "Specialty": "Sleep Medicine",
+    "Role": "Fellow",
+    "Affiliation": "Northwestern"
+  },
+  {
+    "Name": "Andrea Maier, MD, PhD",
+    "Specialty": "Aging & Geriatrics",
+    "Role": "Fellow",
+    "Affiliation": "NUS Singapore"
+  },
+  {
+    "Name": "Richard A. Miller, MD, PhD",
+    "Specialty": "Aging Research",
+    "Role": "Fellow",
+    "Affiliation": "U. of Michigan"
+  },
+  {
+    "Name": "Scott Rodeo, MD",
+    "Specialty": "Sports Medicine",
+    "Role": "Fellow",
+    "Affiliation": "HSS"
+  },
+  {
+    "Name": "Eran Segal, PhD",
+    "Specialty": "Computational Biology",
+    "Role": "Fellow",
+    "Affiliation": "Weizmann Institute"
+  }
+]

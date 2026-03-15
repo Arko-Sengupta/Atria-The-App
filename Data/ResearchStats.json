@@ -1,0 +1,42 @@
+[
+  {
+    "Value": "17",
+    "Desc": "Years for breakthroughs to reach clinical practice",
+    "Source": "Journal of the Royal Society of Medicine"
+  },
+  {
+    "Value": "73",
+    "Desc": "Days for medical knowledge to double",
+    "Source": "Transactions of the American Clinical and Climatological Association"
+  },
+  {
+    "Value": "$9.8T",
+    "Desc": "Global annual healthcare spending",
+    "Source": "World Health Organization"
+  },
+  {
+    "Value": "~5,000",
+    "Desc": "New U.S. clinical drug trials annually",
+    "Source": "IQVIA Connected Intelligence"
+  },
+  {
+    "Value": "6,000",
+    "Desc": "Rare diseases without known treatment",
+    "Source": "McKinsey & Company"
+  },
+  {
+    "Value": "$245B",
+    "Desc": "U.S. annual medical R&D spending",
+    "Source": "Research!America"
+  },
+  {
+    "Value": "10+",
+    "Desc": "Years for drug discovery to reach market",
+    "Source": "Journal of Health Economics"
+  },
+  {
+    "Value": "4.6",
+    "Desc": "Years expected global life expectancy increase by 2050",
+    "Source": "The Lancet"
+  }
+]

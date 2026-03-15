@@ -1,0 +1,42 @@
+[
+  {
+    "Label": "New York — Reception",
+    "Color": "#4a6b5e"
+  },
+  {
+    "Label": "New York — Member Suite",
+    "Color": "#3d5a50"
+  },
+  {
+    "Label": "New York — MRI Suite",
+    "Color": "#526e63"
+  },
+  {
+    "Label": "New York — CT Scanner",
+    "Color": "#45675a"
+  },
+  {
+    "Label": "South Florida — Lounge",
+    "Color": "#5a7d70"
+  },
+  {
+    "Label": "South Florida — Clinical Suite",
+    "Color": "#4f7265"
+  },
+  {
+    "Label": "South Florida — Imaging",
+    "Color": "#3a5748"
+  },
+  {
+    "Label": "Pediatric Suite",
+    "Color": "#5d8073"
+  },
+  {
+    "Label": "Performance Lab",
+    "Color": "#486a5c"
+  },
+  {
+    "Label": "Wellness Area",
+    "Color": "#537568"
+  }
+]

@@ -1,0 +1,35 @@
+.legal {
+  padding-top: var(--nav-height, 80px);
+}
+
+.legal__hero {
+  padding: 6rem 3rem 3rem;
+  text-align: center;
+  max-width: 780px;
+  margin: 0 auto;
+}
+
+.legal__hero h1 {
+  margin-bottom: 0.5rem;
+}
+
+.legal__hero p {
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+}
+
+.legal__content h2 {
+  font-size: 1.3rem;
+  margin-top: 3rem;
+  margin-bottom: 0.75rem;
+}
+
+.legal__content h2:first-child {
+  margin-top: 0;
+}
+
+.legal__content p {
+  margin-bottom: 0.75rem;
+  font-size: 1.05rem;
+  line-height: 1.8;
+}

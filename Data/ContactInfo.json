@@ -1,0 +1,38 @@
+{
+  "Contacts": [
+    {
+      "Label": "General Inquiries",
+      "Email": "info@atria.org"
+    },
+    {
+      "Label": "Membership",
+      "Email": "membership@atria.org"
+    },
+    {
+      "Label": "Work With Us",
+      "Email": "careers@atria.org"
+    }
+  ],
+  "Locations": [
+    {
+      "Name": "New York",
+      "Address": "36 East 57th Street, NY 10022",
+      "Phone": "212.600.2000"
+    },
+    {
+      "Name": "South Florida",
+      "Address": "50 Cocoanut Row, Suite 100, Palm Beach, FL 33480",
+      "Phone": "561.200.7000"
+    },
+    {
+      "Name": "Los Angeles",
+      "Address": "Coming 2026",
+      "Phone": ""
+    },
+    {
+      "Name": "Bay Area",
+      "Address": "Coming 2027",
+      "Phone": ""
+    }
+  ]
+}

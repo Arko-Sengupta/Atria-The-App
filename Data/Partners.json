@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "The Institute for Family Health",
+    "Desc": "Operates 29 free clinics across New York State plus 2 shelter-based clinics, serving over 150,000 patients annually with primary care."
+  },
+  {
+    "Name": "Resolve to Save Lives",
+    "Desc": "Nonprofit founded by former CDC Director Dr. Tom Frieden, focused on preventing deaths from pandemics and hypertension. Goal: save 100 million lives globally by 2050."
+  },
+  {
+    "Name": "Hypertension Prevention Program",
+    "Desc": "Mount Sinai heart group initiative targeting NYC firefighters and first responders facing a 12-fold increase in the risk of death from acute coronary events."
+  },
+  {
+    "Name": "RESTORE Health Equity Research Network",
+    "Desc": "Eight-university collaboration reducing racial cardiovascular disparities through community-based hypertension prevention in Black communities nationwide."
+  },
+  {
+    "Name": "Community-to-Clinic Linkage Implementation Program (CLIP)",
+    "Desc": "Partnership with the American Heart Association implementing blood pressure screenings in Staten Island barbershops and community organizations."
+  },
+  {
+    "Name": "Periodic Table of Food Initiative (PTFI)",
+    "Desc": "Science-to-action effort mapping global food quality by macronutrients, micronutrients, and metabolites. Supported by The Rockefeller Foundation."
+  }
+]

@@ -1,0 +1,284 @@
+{
+  "Doctors": [
+    {
+      "Name": "David W. Dodick, MD",
+      "Role": "Chief Science & Medical Officer, Atria; Co-Director, Atria Research Institute",
+      "Specialty": "Neurology",
+      "Location": [
+        "New York",
+        "South Florida"
+      ]
+    },
+    {
+      "Name": "Louis DePalo, MD",
+      "Role": "Medical Director, New York",
+      "Specialty": "Internal Medicine",
+      "Location": [
+        "New York"
+      ]
+    },
+    {
+      "Name": "Laura Balda, MD",
+      "Role": "Medical Co-Director, South Florida",
+      "Specialty": "Family Medicine",
+      "Location": [
+        "South Florida"
+      ]
+    },
+    {
+      "Name": "Caleb Moore, MD",
+      "Role": "Medical Co-Director, South Florida",
+      "Specialty": "Internal Medicine",
+      "Location": [
+        "South Florida"
+      ]
+    },
+    {
+      "Name": "Gregory A. Poland, MD",
+      "Role": "Chief Strategy & Innovation Officer",
+      "Specialty": "Internal Medicine",
+      "Location": [
+        "New York",
+        "South Florida"
+      ]
+    },
+    {
+      "Name": "Kelly Fradin, MD",
+      "Role": "Chair of Pediatrics",
+      "Specialty": "Pediatrics",
+      "Location": [
+        "New York"
+      ]
+    },
+    {
+      "Name": "Richard S. Isaacson, MD",
+      "Role": "Director, Precision Prevention",
+      "Specialty": "Preventive Medicine",
+      "Location": [
+        "New York",
+        "South Florida"
+      ]
+    },
+    {
+      "Name": "Elizabeth Poynor, MD, PhD",
+      "Role": "Chair, Women's Health",
+      "Specialty": "Gynecology",
+      "Location": [
+        "New York"
+      ]
+    },
+    {
+      "Name": "Jaime Burkle, MD",
+      "Role": "Chair of Cardiology",
+      "Specialty": "Cardiology",
+      "Location": [
+        "South Florida"
+      ]
+    },
+    {
+      "Name": "Bart Demaerschalk, MD",
+      "Role": "Chief Digital Health Officer",
+      "Specialty": "Neurology",
+      "Location": [
+        "New York",
+        "South Florida",
+        "Los Angeles"
+      ]
+    },
+    {
+      "Name": "Lawrence C. Newman, MD",
+      "Role": "Director, Brain Health Program",
+      "Specialty": "Neurology",
+      "Location": [
+        "New York"
+      ]
+    },
+    {
+      "Name": "Paul G. Lee, MD",
+      "Role": "Co-Chair, International Executive Health",
+      "Specialty": "Internal Medicine",
+      "Location": [
+        "New York"
+      ]
+    },
+    {
+      "Name": "Gabrielle Page-Wilson, MD",
+      "Role": "Director, Endocrinology",
+      "Specialty": "Endocrinology",
+      "Location": [
+        "New York"
+      ]
+    },
+    {
+      "Name": "Rachel Arakawa, MD",
+      "Role": "Endocrinologist",
+      "Specialty": "Endocrinology",
+      "Location": [
+        "New York"
+      ]
+    },
+    {
+      "Name": "Benjamin H. Lewis, MD",
+      "Role": "Director of Research",
+      "Specialty": "Cardiology",
+      "Location": [
+        "New York",
+        "South Florida"
+      ]
+    },
+    {
+      "Name": "Rony Shimony, MD",
+      "Role": "Director, Cardiology New York",
+      "Specialty": "Cardiology",
+      "Location": [
+        "New York"
+      ]
+    },
+    {
+      "Name": "Natalie Bello, MD",
+      "Role": "Director, Women's Cardiovascular Health",
+      "Specialty": "Cardiology",
+      "Location": [
+        "New York"
+      ]
+    },
+    {
+      "Name": "Alon Gitig, MD",
+      "Role": "Director, Preventive Cardiology",
+      "Specialty": "Cardiology",
+      "Location": [
+        "New York"
+      ]
+    },
+    {
+      "Name": "Ray Dorsey, MD",
+      "Role": "Director, Center for the Brain & Environment",
+      "Specialty": "Neurology",
+      "Location": [
+        "New York",
+        "South Florida"
+      ]
+    },
+    {
+      "Name": "Ilene Ruhoy, MD, PhD",
+      "Role": "Director, Neuroimmune",
+      "Specialty": "Neurology",
+      "Location": [
+        "New York",
+        "South Florida"
+      ]
+    },
+    {
+      "Name": "Jahangir Rahman, MD",
+      "Role": "Internist",
+      "Specialty": "Internal Medicine",
+      "Location": [
+        "New York"
+      ]
+    },
+    {
+      "Name": "Jennifer McGugins Hill, MD",
+      "Role": "Internist",
+      "Specialty": "Internal Medicine",
+      "Location": [
+        "New York"
+      ]
+    },
+    {
+      "Name": "Edward J. Greaney, MD",
+      "Role": "Internist",
+      "Specialty": "Internal Medicine",
+      "Location": [
+        "New York"
+      ]
+    },
+    {
+      "Name": "Paul Fenyves, MD",
+      "Role": "Internist",
+      "Specialty": "Internal Medicine",
+      "Location": [
+        "New York"
+      ]
+    },
+    {
+      "Name": "Ryan Bober, MD",
+      "Role": "Internist",
+      "Specialty": "Internal Medicine",
+      "Location": [
+        "New York"
+      ]
+    },
+    {
+      "Name": "Marc Benton, MD",
+      "Role": "Director, Sleep Medicine",
+      "Specialty": "Sleep Medicine",
+      "Location": [
+        "New York",
+        "South Florida"
+      ]
+    },
+    {
+      "Name": "Amy Grinberg, PhD",
+      "Role": "Director, Behavioral Medicine",
+      "Specialty": "Behavioral Medicine",
+      "Location": [
+        "New York"
+      ]
+    },
+    {
+      "Name": "Kyle O'Flaherty, DPT",
+      "Role": "Director of Movement",
+      "Specialty": "Performance & Movement",
+      "Location": [
+        "New York"
+      ]
+    },
+    {
+      "Name": "Robert Kachko, ND, LAc",
+      "Role": "Director, Integrative Health",
+      "Specialty": "Integrative Health",
+      "Location": [
+        "New York",
+        "South Florida"
+      ]
+    },
+    {
+      "Name": "Nicholas D. Caputo, MD",
+      "Role": "Director, Urgent & Home Care NY",
+      "Specialty": "Emergency Medicine",
+      "Location": [
+        "New York"
+      ]
+    },
+    {
+      "Name": "Hina J. Talib, MD",
+      "Role": "Director, Adolescent Medicine",
+      "Specialty": "Pediatrics",
+      "Location": [
+        "New York"
+      ]
+    },
+    {
+      "Name": "Panta Rouhani Schaffer, MD",
+      "Role": "Dermatologist",
+      "Specialty": "Dermatology",
+      "Location": [
+        "New York"
+      ]
+    },
+    {
+      "Name": "Adam Ross, RD",
+      "Role": "Nutritionist",
+      "Specialty": "Nutrition",
+      "Location": [
+        "New York"
+      ]
+    }
+  ],
+  "AllLocations": [
+    "All",
+    "New York",
+    "South Florida",
+    "Los Angeles"
+  ]
+}

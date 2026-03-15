@@ -1,0 +1,130 @@
+.locs {
+  padding-top: var(--nav-height, 80px);
+}
+
+.locs__hero {
+  padding: 6rem 3rem 3rem;
+  text-align: center;
+  max-width: 780px;
+  margin: 0 auto;
+}
+
+.locs__hero h1 {
+  margin-bottom: 0.5rem;
+}
+
+.locs__hero-sub {
+  font-family: var(--font-serif);
+  font-size: 1.2rem;
+  font-style: italic;
+  color: var(--color-text-light);
+  margin-bottom: 1rem;
+  letter-spacing: 0.02em;
+}
+
+.locs__card {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2.5rem;
+  align-items: start;
+  padding: 2.5rem 0;
+  border-bottom: 1px solid var(--color-border-light);
+}
+
+.locs__card:first-child {
+  border-top: 1px solid var(--color-border-light);
+}
+
+.locs__card-img {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+}
+
+.locs__card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.locs__card-placeholder {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.locs__card-placeholder span {
+  font-family: var(--font-serif);
+  font-size: 1.1rem;
+  color: rgba(255, 255, 255, 0.5);
+  letter-spacing: 0.02em;
+}
+
+.locs__card-info {
+  padding-top: 0.5rem;
+}
+
+.locs__card-info h3 {
+  font-size: 1.15rem;
+  margin-bottom: 0.4rem;
+  transition: color 0.3s ease;
+}
+
+.locs__card:hover .locs__card-info h3 {
+  color: var(--color-primary);
+}
+
+.locs__card-info p {
+  font-size: 0.95rem;
+}
+
+.locs__hours {
+  color: var(--color-text-muted);
+  margin-top: 0.3rem;
+}
+
+.locs__phone {
+  font-weight: 500;
+  color: var(--color-primary) !important;
+  margin-bottom: 0.75rem;
+}
+
+.locs__badge {
+  display: inline-block;
+  margin-top: 0.75rem;
+  padding: 0.3rem 1rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--color-primary);
+  border: 1px solid var(--color-primary);
+  transition: all 0.3s ease;
+}
+
+.locs__card:hover .locs__badge {
+  background: var(--color-primary);
+  color: white;
+}
+
+.locs__contact {
+  padding: var(--section-gap) 0;
+}
+
+@media (max-width: 768px) {
+  .locs__card {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+  .locs__hero {
+    padding: 4rem 1.25rem 2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .locs__card {
+    padding: 1.5rem 0;
+  }
+}

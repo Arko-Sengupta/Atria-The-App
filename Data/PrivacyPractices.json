@@ -1,0 +1,34 @@
+{
+  "Title": "Notice of Privacy Practices",
+  "Effective": "January 1, 2026",
+  "Sections": [
+    {
+      "Heading": "Our Commitment to Your Privacy",
+      "Content": "Atria Health LLC is committed to protecting the privacy of your protected health information (PHI) as required by the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and applicable state laws."
+    },
+    {
+      "Heading": "How We May Use and Disclose Your Health Information",
+      "Content": "We may use and disclose your PHI for the following purposes: treatment (to provide, coordinate, or manage your healthcare), payment (to bill and collect payment for services), and healthcare operations (to support our business activities and quality improvement)."
+    },
+    {
+      "Heading": "Your Rights Regarding Health Information",
+      "Content": "You have the right to: inspect and copy your health records, request amendments to your health information, request restrictions on certain uses and disclosures, request confidential communications, receive an accounting of disclosures, and obtain a paper copy of this notice."
+    },
+    {
+      "Heading": "Our Responsibilities",
+      "Content": "We are required by law to maintain the privacy and security of your PHI, provide you with this notice of our legal duties and privacy practices, notify you following a breach of unsecured PHI, and follow the terms of this notice currently in effect."
+    },
+    {
+      "Heading": "Changes to This Notice",
+      "Content": "We reserve the right to change this notice and make the revised notice effective for health information we already have about you as well as any information we receive in the future."
+    },
+    {
+      "Heading": "Complaints",
+      "Content": "If you believe your privacy rights have been violated, you may file a complaint with our Privacy Officer or with the Secretary of the U.S. Department of Health and Human Services. You will not be penalized for filing a complaint."
+    },
+    {
+      "Heading": "Contact Information",
+      "Content": "For questions about this notice or to exercise your rights, please contact our Privacy Officer at privacy@atria.org or call 212.600.2000."
+    }
+  ]
+}
