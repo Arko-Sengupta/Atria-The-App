@@ -42,7 +42,7 @@ Every Piece Of Content Lives In Structured JSON Data Files, So The Marketing And
 ```
 Frontend        React 19.2 + React Router DOM 7.13
 Build Tool      Vite 7.3 With React Fast Refresh
-Styling         CSS Custom Properties + BEM Naming
+Styling         CSS Properties + BEM Naming
 Typography      DM Serif Display (Headings) + Inter (Body)
 Data Layer      Static JSON — 30 Externalized Data Files
 Linting         ESLint 9
@@ -91,7 +91,7 @@ The Codebase Is Intentionally Simple. No Heavy State Management Libraries, No Ov
 ```
 src/
 ├── Components/          Reusable UI — Navbar, Footer, ContactForm
-├── Hooks/               Custom Hooks — UseScrollReveal (Intersection Observer)
+├── Hooks/               Hooks — UseScrollReveal (Intersection Observer)
 ├── Pages/               12 Route-Level Page Components
 ├── Styles/
 │   ├── Global.css       CSS Variables, Typography, Reset
@@ -144,7 +144,6 @@ Fluid Typography Via CSS `clamp()`. All Animations Gracefully Step Aside When Us
 | `/locations`     | Locations     | Find An Office, Get Directions, Check Hours                |
 | `/contact-us`    | Contact Us    | Reach Out — Forms, Emails, And Office Details              |
 
-```
 
 ---
 
