@@ -39,14 +39,27 @@ Every Piece Of Content Lives In Structured JSON Data Files, So The Marketing And
 
 ## Dependencies
 
-```
-Frontend        React 19.2 + React Router DOM 7.13
-Build Tool      Vite 7.3 With React Fast Refresh
-Styling         CSS Properties + BEM Naming
-Typography      DM Serif Display (Headings) + Inter (Body)
-Data Layer      Static JSON — 30 Externalized Data Files
-Linting         ESLint 9
-```
+### Production
+
+| Package             | Version   | Purpose                                    |
+| :------------------ | :-------- | :----------------------------------------- |
+| `react`             | `^19.2.0` | UI Component Library                       |
+| `react-dom`         | `^19.2.0` | DOM Rendering Engine                       |
+| `react-router-dom`  | `^7.13.1` | Client-Side Routing                        |
+
+### Development
+
+| Package                       | Version    | Purpose                                |
+| :---------------------------- | :--------- | :------------------------------------- |
+| `vite`                        | `^7.3.1`   | Build Tool And Dev Server              |
+| `@vitejs/plugin-react`        | `^5.1.1`   | React Fast Refresh For Vite            |
+| `eslint`                      | `^9.39.1`  | Code Linting                           |
+| `@eslint/js`                  | `^9.39.1`  | ESLint Core JavaScript Config          |
+| `eslint-plugin-react-hooks`   | `^7.0.1`   | React Hooks Linting Rules              |
+| `eslint-plugin-react-refresh` | `^0.4.24`  | React Refresh Linting Rules            |
+| `@types/react`                | `^19.2.7`  | TypeScript Definitions For React       |
+| `@types/react-dom`            | `^19.2.3`  | TypeScript Definitions For React DOM   |
+| `globals`                     | `^16.5.0`  | Global Variable Definitions For ESLint |
 
 ## Getting Started
 
@@ -57,9 +70,18 @@ Linting         ESLint 9
 
 ### Installation
 
+Clone The Repository
 ```bash
 git clone https://github.com/Arko-Sengupta/Atria-The-App.git
+```
+
+Navigate To The Project
+```bash
 cd Atria-The-App
+```
+
+Install Dependencies
+```bash
 npm install
 ```
 
