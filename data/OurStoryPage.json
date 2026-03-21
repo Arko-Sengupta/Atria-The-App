@@ -1,0 +1,33 @@
+{
+  "Hero": {
+    "Title": "Why We're Here",
+    "Subtitle": "The mission and vision of the Atria Health and Research Institute",
+    "Image": "8275eecf92a0ed1a637d17b62928335f6b7f2ed0-1280x1600.jpg?w=960&fm=webp&auto=format",
+    "ImageAlt": "Atria Health Institute"
+  },
+  "Lead": "At the Atria Health and Research Institute, we believe it's time for a revolutionary shift from reactive sick care to proactive, preventive health care.",
+  "Vision": {
+    "Title": "Our vision for health care",
+    "Body": "Our ambition is to deliver the world's best preventive care — precision-based, personalized, and grounded in the latest science. We are committed to generating data and sharing insights freely, because breakthroughs shouldn't stay behind closed doors."
+  },
+  "MidImage": {
+    "Image": "3e74d4ba9609afe3fce4bbc2958cdec4d2384d69-1280x880.jpg?w=1280&fm=webp&auto=format",
+    "ImageAlt": "Atria clinical environment"
+  },
+  "Challenge": {
+    "Title": "The challenge we face",
+    "Body1": "The facts are clear: 80% of strokes are preventable. 45% of dementia cases are preventable through lifestyle changes. Half of U.S. adults have hypertension. 38% of Americans have prediabetes — and most don't know it.",
+    "Body2": "Yet our healthcare system remains oriented toward treatment rather than prevention. It takes an average of 17 years for a scientific breakthrough to reach a doctor's office. Over 3,000 medical papers are published daily, but precious few translate into the care patients actually receive."
+  },
+  "ResearchEducation": {
+    "Title": "Research and education for the greater good",
+    "Body1": "The Atria Research Institute brings together more than 100 distinguished fellows from the world's leading medical institutions — working to identify and advance preventive solutions that can improve health outcomes for as many people as possible.",
+    "Body2": "Our Health Education library makes cutting-edge medical knowledge freely available to everyone, because informed individuals make healthier choices.",
+    "Links": [
+      { "Label": "Atria Research Institute", "To": "/research" },
+      { "Label": "Health Education", "To": "/education" }
+    ]
+  },
+  "CTA": "Join us in shaping a future where health is preserved, not just repaired — where well-spent years and healthy longevity are within reach for everyone.",
+  "ContactTitle": "Connect with us."
+}

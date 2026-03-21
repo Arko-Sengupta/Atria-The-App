@@ -1,0 +1,14 @@
+{
+  "Hero": {
+    "Title": "Our Doctors",
+    "Tagline": "Excellence and compassion in action.",
+    "Description": "Our clinical team works at the forefront of science and medicine, combining deep expertise with seamless collaboration to deliver the best possible care."
+  },
+  "Filters": {
+    "LocationLabel": "Location",
+    "SpecialtyLabel": "Specialty",
+    "DoctorSingular": "doctor",
+    "DoctorPlural": "doctors"
+  },
+  "EmptyMessage": "No doctors match your current filters."
+}

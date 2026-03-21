@@ -1,0 +1,10 @@
+{
+  "Hero": {
+    "Title": "Locations",
+    "Subtitle": "Where hospitality and health care converge.",
+    "Body": "Whether you live locally or globally, Atria is your home for health care every day of the year."
+  },
+  "DirectionsLabel": "Directions",
+  "ContactTitle": "Connect with us.",
+  "MapsBaseURL": "https://maps.google.com/?q="
+}

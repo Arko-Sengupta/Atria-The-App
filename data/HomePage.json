@@ -1,0 +1,99 @@
+{
+  "Hero": {
+    "Title": "The future of preventive medicine is here."
+  },
+  "Intro": {
+    "Lead": "The Atria Health Institute is pioneering a precision-based approach to preventive medicine and longevity science through a collaborative, team-based clinical practice.",
+    "Body": "Through meticulous screening, advanced therapeutics, lifestyle optimization, and ongoing support, our multi-specialty team of more than 50 doctors across 15+ areas of specialty works together to deliver personalized family care — from pediatrics through geriatric care.",
+    "Image": "8ea2b78e110e1adbf9b960963e29f6398ecd5325-640x880.jpg?w=640&fm=webp&auto=format",
+    "ImageAlt": "Atria Health and Research Institute"
+  },
+  "Mission": {
+    "Title": "We are on a mission to accelerate a global shift from reactive sick care to proactive, preventive health care.",
+    "Body": "Our goal is to prevent disease and extend healthy lifespan by translating the latest scientific discoveries into clinical practice — through longitudinal research and clinical innovation.",
+    "Image": "8275eecf92a0ed1a637d17b62928335f6b7f2ed0-1280x1600.jpg?w=1280&fm=webp&auto=format",
+    "ImageAlt": "Atria clinical consultation"
+  },
+  "StatsTitle": "The case for proactive medicine",
+  "FullImage": {
+    "Image": "c1168e0332e92d4b5ca223ef60ede07907b01979-2720x1600.jpg?w=2880&fm=webp&auto=format",
+    "ImageAlt": "The Atria Health Institute"
+  },
+  "Institute": {
+    "Title": "The Atria Health Institute",
+    "Body": "The Atria Health Institute is a membership-based health care organization delivering longevity and precision medicine through 50 full-time physicians across 15+ specialties. With on-site advanced testing and imaging technology, Atria provides integrated family care at the cutting edge of science.",
+    "LinkLabel": "The Atria Health Institute",
+    "LinkTo": "/institute"
+  },
+  "Unique": {
+    "Title": "What makes Atria unique",
+    "Image": "3e74d4ba9609afe3fce4bbc2958cdec4d2384d69-1280x880.jpg?w=1280&fm=webp&auto=format",
+    "ImageAlt": "What makes Atria unique",
+    "LinkLabel": "Learn more about membership",
+    "LinkTo": "/institute"
+  },
+  "Membership": {
+    "Title": "Membership for you and your family",
+    "Image": "859e4393879d9733d820d52d4d4556b4209064a7-1280x880.jpg?w=1280&fm=webp&auto=format",
+    "ImageAlt": "Membership for you and your family",
+    "LinkLabel": "Contact us about membership"
+  },
+  "Doctors": {
+    "Title": "Meet our doctors",
+    "Body": "Top clinicians in internal medicine, brain health, cardiology, endocrinology, exercise physiology, integrative health, medical dermatology, metabolic health, neurology, nutrition, pediatrics, performance and movement, women's and men's health, and more.",
+    "LinkLabel": "About our clinicians",
+    "LinkTo": "/doctors",
+    "Images": [
+      {
+        "Image": "9a870f4668b35018be159c7d6ec465d583e8107f-480x640.jpg?w=480&fm=webp&auto=format",
+        "Alt": "Atria doctor",
+        "Portrait": true
+      },
+      {
+        "Image": "2b732a0f388bb8bb7da5383821bedb476ce45710-1280x1600.jpg?w=1280&fm=webp&auto=format",
+        "Alt": "Atria doctors team",
+        "Portrait": false
+      }
+    ]
+  },
+  "ClinicalApproach": {
+    "Body1": "Atria's full-time, multi-specialty medical team practices medicine as it should be: in collaboration, at the leading-edge of science, and with a patient-first approach.",
+    "Body2": "We perform advanced imaging and in-depth screening on-site, establishing a new standard of prevention. And our Research Institute explores novel preventive strategies and shares its findings with the world.",
+    "Image": "9ada95e1d3bbf97fe42fc39744e5f3e55fcb5748-640x880.jpg?w=640&fm=webp&auto=format",
+    "ImageAlt": "Atria clinical approach"
+  },
+  "WorkTitle": "Explore our work",
+  "WorkItems": [
+    {
+      "Title": "The Atria Research Institute",
+      "Body": "Our Research Institute, comprised of 100+ fellows, explores innovative preventive strategies, publishes scientific findings, and works to accelerate the translation of breakthroughs into public health practice.",
+      "Image": "bf3eec2b98e004c41f235f3f3d4e3e7aa8d20b56-1280x800.jpg?w=1280&fm=webp&auto=format",
+      "ImageAlt": "Atria Research Institute",
+      "LinkLabel": "Meet our research fellows",
+      "LinkTo": "/research"
+    },
+    {
+      "Title": "Health Education",
+      "Body": "Empowering people with modern medical knowledge for free. Our comprehensive library offers actionable guidance from Atria clinicians and our expert network on the most important topics in contemporary medicine.",
+      "Image": "b61c9f18b13d4291a33ba5e476cf625e52a5f755-1280x800.jpg?w=1280&fm=webp&auto=format",
+      "ImageAlt": "Health Education",
+      "LinkLabel": "Explore our library",
+      "LinkTo": "/education"
+    },
+    {
+      "Title": "Atria Public Health",
+      "Body": "We believe advances in science and medicine should benefit everyone. Our non-profit division partners with organizations to address healthcare equity gaps between underserved and well-resourced populations.",
+      "Image": "203701c432ad011f27e1a4303f2a8efebd9e4ab5-1280x800.jpg?w=1280&fm=webp&auto=format",
+      "ImageAlt": "Atria Public Health",
+      "LinkLabel": "Meet our partners",
+      "LinkTo": "/public-health"
+    }
+  ],
+  "ContactTitle": "Connect with us.",
+  "Newsletter": {
+    "Label": "Subscribe to the Atria newsletter",
+    "Placeholder": "Email address",
+    "ButtonText": "Subscribe",
+    "SuccessMessage": "Thanks for signing up!"
+  }
+}

@@ -3,7 +3,7 @@
 # Atria Health
 ### The Future Of Preventive Medicine
 
-A Premium Single-Page Application for Atria Health — Medical Platform for World-Class Preventive Care.
+A Thoughtfully Developed Web Experience For Atria Health — Bringing World-Class Preventive Medicine Closer To The People Who Need It Most.
 
 **React 19** · **Vite 7** · **React Router 7** · **CSS Properties**
 
@@ -15,32 +15,36 @@ A Premium Single-Page Application for Atria Health — Medical Platform for Worl
 
 ## About
 
-Atria Health is a Modern, Responsive Web Application Built to Showcase a Membership-Based Preventive Medicine Practice, it's Research Institute, Health Education Library, and Public Health Initiatives. The Application is Entirely Data-Driven — All Content Lives in Structured JSON Files, Making it Trivially Extensible without Touching Component Code.
+Healthcare Shouldn't Be Reactive. Atria Health Believes In Catching Problems Before They Start — And This Application Brings That Philosophy To Life Digitally.
 
-> **12 Pages · 50+ Physicians · 100+ Research Fellows · 18 Specialties · 19 Data Sources**
+This Is A Modern, Responsive Web Platform Built For Atria's Membership-Based Preventive Medicine Practice. It Tells The Story Of Their Clinical Institute, Research Fellows, Health Education Efforts, And Public Health Mission — All In One Seamless Experience.
+
+Every Piece Of Content Lives In Structured JSON Data Files, So The Marketing And Clinical Teams Can Update Copy, Add Doctors, Or Launch New Locations Without Ever Touching Code.
+
+> **12 Pages · 50+ Physicians · 100+ Research Fellows · 18 Specialties · 30 Data Sources**
 
 ## Features
 
-| Feature                       | Description                                                                |
-| :---------------------------- | :------------------------------------------------------------------------- |
-| **Doctor Directory**          | Filterable Directory across 15+ Specialties with Location-Based Search     |
-| **Health Education Library**  | Articles, Videos, and Guides Filterable by Type and Subject                |
-| **Research Institute**        | Showcase of Distinguished Fellows, Strategic Pillars, and Impact Stats     |
-| **Public Health Initiatives** | Nonprofit Partnerships Tackling Healthcare Equity                          |
-| **Multi-Location Support**    | Directions, Hours, Status, and Contact Info Per Location                   |
-| **Glass Morphism Navbar**     | Frosted Glass Navigation with Animated Dropdown Menus                      |
-| **Scroll Reveal Animations**  | Intersection Observer-Powered Reveals that Respect `prefers-reduced-motion`|
-| **Contact Forms**             | Validated Forms with Newsletter Subscription Across Multiple Touchpoints   |
-| **Responsive Design**         | Fluid Layouts Across Mobile, Tablet, and Desktop Breakpoints               |
+| Feature                                | What It Means For The Business                                                                                      |
+| :------------------------------------- | :------------------------------------------------------------------------------------------------------------------ |
+| **Find The Right Doctor, Fast**        | Prospective Members Can Search 50+ Physicians By Specialty And Location — No Phone Calls Needed                     |
+| **Health Education At Your Fingertips**| A Free Library Of Articles, Videos, And Guides That Builds Trust And Positions Atria As A Thought Leader             |
+| **Research That Speaks For Itself**    | Showcases 100+ Distinguished Fellows, Strategic Pillars, And Real Impact Numbers To Earn Credibility                |
+| **Public Health With Purpose**         | Highlights Nonprofit Partnerships And Equity Work — Showing Atria Cares Beyond Its Membership Walls                 |
+| **Every Location, One Place**          | Visitors See Hours, Directions, Contact Info, And Upcoming Openings For All Atria Locations At A Glance             |
+| **Membership Made Approachable**       | Clear Breakdown Of What Members Get, With Easy Paths To Inquire — Reducing Friction In The Enrollment Journey       |
+| **Feels Premium, Loads Fast**          | Smooth Scroll Animations, Frosted-Glass Navigation, And Responsive Layouts That Work Beautifully On Any Device      |
+| **Built For Non-Technical Updates**    | All Text, Images, And URLs Live In Simple JSON Files — Content Changes Don't Require A Developer                    |
+| **Accessible By Default**             | Animations Respect User Motion Preferences, Forms Are Validated, And The Site Works Across All Screen Sizes          |
 
 ## Dependencies
 
 ```
 Frontend        React 19.2 + React Router DOM 7.13
-Build Tool      Vite 7.3 with React Fast Refresh
-Styling         CSS Custom Properties + BEM naming
-Typography      DM Serif Display (headings) + Inter (body)
-Data Layer      Static JSON — 19 externalized data files
+Build Tool      Vite 7.3 With React Fast Refresh
+Styling         CSS Custom Properties + BEM Naming
+Typography      DM Serif Display (Headings) + Inter (Body)
+Data Layer      Static JSON — 30 Externalized Data Files
 Linting         ESLint 9
 ```
 
@@ -54,7 +58,7 @@ Linting         ESLint 9
 ### Installation
 
 ```bash
-git clone https://github.com/ArkSengupta/Atria-The-App.git
+git clone https://github.com/Arko-Sengupta/Atria-The-App.git
 cd Atria-The-App
 npm install
 ```
@@ -65,13 +69,13 @@ npm install
 npm run dev
 ```
 
-Opens at `http://localhost:5173`
+Opens At `http://localhost:5173`
 
 ### Production Build
 
 ```bash
-npm run build      # Outputs to Dist/
-npm run preview    # Preview the production build
+npm run build      # Outputs To dist/
+npm run preview    # Preview The Production Build
 ```
 
 ### Linting
@@ -82,48 +86,41 @@ npm run lint
 
 ## Architecture
 
+The Codebase Is Intentionally Simple. No Heavy State Management Libraries, No Over-Abstraction — Just Clean React Components Powered By Data.
+
 ```
-Src/
+src/
 ├── Components/          Reusable UI — Navbar, Footer, ContactForm
-├── Hooks/               Custom hooks — UseScrollReveal (Intersection Observer)
-├── Pages/               12 route-level page components
+├── Hooks/               Custom Hooks — UseScrollReveal (Intersection Observer)
+├── Pages/               12 Route-Level Page Components
 ├── Styles/
-│   ├── Global.css       CSS variables, typography, reset
-│   ├── Components/      Component-scoped stylesheets
-│   └── Pages/           Page-scoped stylesheets
-├── App.jsx              Route definitions and layout shell
-└── Main.jsx             Entry point — StrictMode + BrowserRouter
+│   ├── Global.css       CSS Variables, Typography, Reset
+│   ├── Components/      Component-Scoped Stylesheets
+│   └── Pages/           Page-Scoped Stylesheets
+├── App.jsx              Route Definitions And Layout Shell
+└── Main.jsx             Entry Point — StrictMode + BrowserRouter
 
-Data/                    19 JSON files powering all content
+data/                    30 JSON Files Powering All Content
 ```
-
-### Key Patterns
-
-- **Arrow function components** throughout — no class components
-- **Separated concerns** — CSS and JSX live in distinct directory trees
-- **Externalized data** — every piece of static content extracted to JSON
-- **PascalCase convention** — files, directories, functions, and JSON keys
-- **BEM CSS** — semantic, predictable class naming
-- **No external state management** — local `useState` + URL-based routing keeps things simple
 
 ## Design System
 
 ### Color Palette
 
-| Token                      | Value     | Usage                      |
-| :------------------------- | :-------- | :------------------------- |
-| `--color-primary`          | `#344740` | Deep green — brand identity|
-| `--color-primary-light`    | `#3d5a50` | Hover states, accents      |
-| `--color-primary-dark`     | `#263832` | Navbar, dark sections      |
-| `--color-text`             | `#111111` | Primary body text          |
-| `--color-text-secondary`   | `#333333` | Subheadings, descriptions  |
+| Token                      | Value     | Usage                          |
+| :------------------------- | :-------- | :----------------------------- |
+| `--color-primary`          | `#344740` | Deep Green — Brand Identity    |
+| `--color-primary-light`    | `#3d5a50` | Hover States, Accents          |
+| `--color-primary-dark`     | `#263832` | Navbar, Dark Sections          |
+| `--color-text`             | `#111111` | Primary Body Text              |
+| `--color-text-secondary`   | `#333333` | Subheadings, Descriptions      |
 
 ### Typography
 
 | Role     | Font             | Size                        |
 | :------- | :--------------- | :-------------------------- |
 | Headings | DM Serif Display | `clamp(2rem, 5.5vw, 4rem)`  |
-| Body     | Inter            | `1.05rem` base              |
+| Body     | Inter            | `1.05rem` Base              |
 
 ### Responsive Breakpoints
 
@@ -131,46 +128,22 @@ Data/                    19 JSON files powering all content
 480px → 768px → 960px → 1024px → 1200px
 ```
 
-Fluid typography via CSS `clamp()`. All animations respect `prefers-reduced-motion`.
+Fluid Typography Via CSS `clamp()`. All Animations Gracefully Step Aside When Users Prefer Reduced Motion.
 
 ## Pages
 
-| Route            | Page          | Highlights                                     |
-| :--------------- | :------------ | :--------------------------------------------- |
-| `/`              | Home          | Hero section, mission statement, health stats  |
-| `/institute`     | Institute     | Membership features, image gallery, locations  |
-| `/doctors`       | Doctors       | Filterable physician directory                 |
-| `/research`      | Research      | Fellows, strategic pillars, impact metrics     |
-| `/education`     | Education     | Content library with type/subject filters      |
-| `/public-health` | Public Health | Nonprofit partnerships and equity initiatives  |
-| `/our-story`     | Our Story     | Company history and leadership                 |
-| `/locations`     | Locations     | Multi-location directory with hours and status |
-| `/contact-us`    | Contact Us    | Contact form and office information            |
+| Route            | Page          | What Visitors Find There                                   |
+| :--------------- | :------------ | :--------------------------------------------------------- |
+| `/`              | Home          | The Big Picture — Mission, Stats, And Paths Forward        |
+| `/institute`     | Institute     | What Membership Looks Like, Gallery, And Locations         |
+| `/doctors`       | Doctors       | Browse Physicians By Specialty And Location                |
+| `/research`      | Research      | Meet The Fellows, See The Pillars, Feel The Impact         |
+| `/education`     | Education     | Free Articles, Videos, And Guides — Filterable             |
+| `/public-health` | Public Health | Atria's Nonprofit Work And Equity Partnerships             |
+| `/our-story`     | Our Story     | Why Atria Exists And Who's Leading The Charge              |
+| `/locations`     | Locations     | Find An Office, Get Directions, Check Hours                |
+| `/contact-us`    | Contact Us    | Reach Out — Forms, Emails, And Office Details              |
 
-## Data Layer
-
-All content is externalized into `Data/*.json`, making the app easy to update and scale:
-
-```
-Doctors.json             50+ physicians with specialty and location
-Fellows.json             Research institute fellows
-Articles.json            Educational content (articles, videos, guides)
-Navigation.json          Navbar structure and link hierarchy
-MembershipFeatures.json  Atria membership benefits
-Specialties.json         18 medical specialties
-ContactInfo.json         Office locations and email contacts
-PageLocations.json       Location pages with hours and status
-HomeStats.json           Health statistics with citation sources
-ResearchStats.json       Research challenge metrics
-Partners.json            Nonprofit partner organizations
-Leaders.json             Leadership team profiles
-Pillars.json             Research strategic pillars
-JourneySteps.json        Patient journey phases
-GalleryItems.json        Institute gallery images
-PrivacyPolicy.json       Privacy policy content
-PrivacyPractices.json    HIPAA practices
-Terms.json               Terms of service
-InstituteLocations.json  Membership location details
 ```
 
 ---

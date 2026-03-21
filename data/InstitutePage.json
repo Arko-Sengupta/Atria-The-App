@@ -1,0 +1,24 @@
+{
+  "Hero": {
+    "Title": "The future of preventive medicine is here.",
+    "Subtitle": "A collaborative, multi-specialty team delivering personalized preventive medicine and longevity care for you and your family.",
+    "Image": "c1168e0332e92d4b5ca223ef60ede07907b01979-2720x1600.jpg?w=1600&auto=format",
+    "ImageAlt": "Atria Health Institute"
+  },
+  "Features": [
+    "24/7 care at our world-class Institutes and your home",
+    "Full imaging center and advanced labs on-site",
+    "The gold standard of collaborative, multi-specialty care"
+  ],
+  "MembershipTitle": "What Atria membership includes",
+  "MembershipCTA": "Contact Us About Membership",
+  "GalleryTitle": "Hospitable health care",
+  "ExpertiseTitle": "Multidisciplinary expertise",
+  "DoctorsLink": {
+    "Label": "Meet Our Doctors",
+    "To": "/doctors"
+  },
+  "JourneyTitle": "The Atria Journey",
+  "LocationsTitle": "Our Locations",
+  "ContactTitle": "Connect with us."
+}

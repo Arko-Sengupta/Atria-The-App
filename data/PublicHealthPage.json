@@ -1,0 +1,19 @@
+{
+  "Hero": {
+    "Title": "Atria Public Health",
+    "Subtitle": "How health care can and should be for all.",
+    "Image": "203701c432ad011f27e1a4303f2a8efebd9e4ab5-1280x800.jpg?w=1280&fm=webp&auto=format",
+    "ImageAlt": "Atria Public Health"
+  },
+  "Intro": {
+    "Lead": "Medical breakthroughs have the power to transform lives — but they rarely reach everyone equally.",
+    "Body": "We envision a world where every human has the opportunity to live a long and healthy life. As a 501(c)(3) nonprofit, Atria Public Health builds strategic partnerships that close critical gaps in care and develops evidence-based programs that prevent chronic disease, strengthen health systems, and extend healthy life for all."
+  },
+  "Mission": "Bridge the gap between innovation and access, bringing advances in science to those who need them most.",
+  "PartnersTitle": "Our Partners",
+  "CrossLinks": [
+    { "Label": "Atria Research Institute", "To": "/research" },
+    { "Label": "Health Education library", "To": "/education" }
+  ],
+  "ContactTitle": "Connect with us."
+}

@@ -1,0 +1,23 @@
+{
+  "Hero": {
+    "Title": "The Atria Research Institute",
+    "Subtitle": "Translating science into medicine.",
+    "Image": "bf3eec2b98e004c41f235f3f3d4e3e7aa8d20b56-1280x800.jpg?w=1280&fm=webp&auto=format",
+    "ImageAlt": "Atria Research Institute"
+  },
+  "Intro": {
+    "Lead": "It takes an average of 17 years for scientific breakthroughs to reach doctors' offices — nearly two decades of missed disease prevention opportunities.",
+    "Body": "The pharmaceutical industry spends $83 billion annually on disease treatments versus minimal investment in prevention. The Atria Research Institute, with a global network of 100+ distinguished fellows and researchers, is working to change this."
+  },
+  "Mission": "Identify and advance preventive solutions that improve health outcomes and enhance the lives of as many people as possible.",
+  "MissionTitle": "Our Mission",
+  "PillarsTitle": "Strategic Pillars",
+  "StatsTitle": "The Challenge in Numbers",
+  "FellowsTitle": "Research Fellows",
+  "FellowsIntro": "A global network of 100+ distinguished fellows exploring innovative preventive strategies and accelerating the translation of science into clinical practice.",
+  "CrossLinks": [
+    { "Label": "Why we're here", "To": "/our-story" },
+    { "Label": "Health Education library", "To": "/education" }
+  ],
+  "ContactTitle": "Connect with us."
+}

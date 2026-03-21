@@ -1,0 +1,14 @@
+{
+  "Hero": {
+    "Title": "Health Education",
+    "Tagline": "Free, expert-driven medical knowledge.",
+    "Description": "Actionable guidance from Atria clinicians and our expert network on the most important topics in contemporary medicine. Empowering you to take control of your health."
+  },
+  "Filters": {
+    "TypeLabel": "Type",
+    "SubjectLabel": "Subject",
+    "ItemSingular": "item",
+    "ItemPlural": "items"
+  },
+  "EmptyMessage": "No content matches your current filters."
+}

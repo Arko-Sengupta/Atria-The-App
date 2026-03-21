@@ -1,0 +1,20 @@
+{
+  "Logo": "atria",
+  "InstituteLabel": "Atria Health Institute",
+  "InstituteLinks": [
+    { "To": "/institute", "Label": "Atria Membership" },
+    { "To": "/doctors", "Label": "Our Doctors" },
+    { "To": "/locations", "Label": "Locations" },
+    { "To": "/contact-us", "Label": "Contact Us" }
+  ],
+  "WorkLabel": "Our Work",
+  "WorkLinks": [
+    { "To": "/research", "Label": "Atria Research Institute" },
+    { "To": "/education", "Label": "Health Education" },
+    { "To": "/public-health", "Label": "Public Health" },
+    { "To": "/our-story", "Label": "Our Story" }
+  ],
+  "ContentLink": { "To": "/education", "Label": "Content" },
+  "DoctorsLink": { "To": "/doctors", "Label": "Our Doctors" },
+  "LoginText": "Login"
+}

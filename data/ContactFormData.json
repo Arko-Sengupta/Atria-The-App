@@ -1,0 +1,20 @@
+{
+  "Subjects": [
+    { "Value": "", "Label": "Subject" },
+    { "Value": "membership", "Label": "Membership Inquiry" },
+    { "Value": "general", "Label": "General Inquiry" },
+    { "Value": "press", "Label": "Press" },
+    { "Value": "careers", "Label": "Careers" },
+    { "Value": "other", "Label": "Other" }
+  ],
+  "Placeholders": {
+    "Name": "Name",
+    "Email": "Email",
+    "Message": "Message"
+  },
+  "SubmitText": "Send",
+  "Success": {
+    "Title": "Thank you!",
+    "Body": "We'll be in touch shortly."
+  }
+}

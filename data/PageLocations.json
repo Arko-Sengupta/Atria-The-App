@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "Atria New York",
+    "Address": "36 East 57th Street, New York, NY 10022",
+    "Hours": "Monday - Friday, 7am - 7pm",
+    "Phone": "212.600.2000",
+    "Status": "open",
+    "Image": "959446715fd3708cf6a4937dd39473de47e535ea-2720x1360.jpg?w=960&fm=webp&auto=format"
+  },
+  {
+    "Name": "Atria South Florida",
+    "Address": "50 Cocoanut Row, Suite 100, Palm Beach, FL 33480",
+    "Hours": "Monday - Friday, 8am - 5pm",
+    "Phone": "561.200.7000",
+    "Status": "open",
+    "Image": "48803474571fb03e6413e7410c426a4685f06265-1280x800.jpg?w=960&fm=webp&auto=format"
+  },
+  {
+    "Name": "Atria Los Angeles",
+    "Address": "Los Angeles, California",
+    "Status": "Coming 2026",
+    "Image": "f80891452913ecac18e880687c7177c79042075a-1280x800.jpg?w=960&fm=webp&auto=format"
+  },
+  {
+    "Name": "Atria Bay Area",
+    "Address": "San Francisco Bay Area, California",
+    "Status": "Coming 2027",
+    "Image": "5ec32b76062149a8a65dd11b7bd3c57fb5d41d6a-1280x800.jpg?w=960&fm=webp&auto=format"
+  }
+]

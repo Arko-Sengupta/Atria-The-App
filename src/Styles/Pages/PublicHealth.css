@@ -1,0 +1,148 @@
+.ph {
+  padding-top: var(--nav-height, 80px);
+}
+
+.ph__hero {
+  padding: 6rem 3rem 3rem;
+  text-align: center;
+  max-width: 780px;
+  margin: 0 auto;
+}
+
+.ph__hero-sub {
+  font-family: var(--font-serif);
+  font-size: 1.2rem;
+  font-style: italic;
+  color: var(--color-text-light);
+  letter-spacing: 0.02em;
+}
+
+/* Hero image */
+.ph__hero-image {
+  max-width: 1440px;
+  margin: 0 auto 4rem;
+  padding: 0 3rem;
+  overflow: hidden;
+}
+
+.ph__hero-image img {
+  width: 100%;
+  height: auto;
+}
+
+.ph__section {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 3rem;
+  margin-bottom: var(--section-gap);
+}
+
+.ph__section h2 {
+  margin-bottom: 1.75rem;
+}
+
+.ph__lead {
+  font-family: var(--font-serif);
+  font-size: 1.4rem;
+  line-height: 1.5;
+  color: var(--color-text);
+  letter-spacing: 0.02em;
+  margin-bottom: 1.25rem;
+}
+
+/* Mission */
+.ph__mission {
+  background: var(--gradient-primary);
+  padding: var(--section-gap) 3rem;
+  margin-bottom: var(--section-gap);
+}
+
+.ph__mission-inner {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.ph__mission p {
+  font-family: var(--font-serif);
+  font-size: 1.45rem;
+  font-style: italic;
+  color: rgba(255, 255, 255, 0.85);
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+/* Partners */
+.ph__partners {
+  display: grid;
+  gap: 0;
+}
+
+.ph__partner {
+  padding: 1.75rem 0;
+  padding-left: 1rem;
+  border-top: 1px solid var(--color-border-light);
+  transition: padding-left 0.3s ease, background 0.3s ease;
+  position: relative;
+}
+
+.ph__partner::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 1.75rem;
+  bottom: 1.75rem;
+  width: 3px;
+  background: var(--color-primary);
+  border-radius: 2px;
+  transform: scaleY(0);
+  transition: transform 0.3s var(--ease-out-expo);
+}
+
+.ph__partner:hover {
+  padding-left: 1.5rem;
+  background: var(--color-primary-ghost);
+}
+
+.ph__partner:hover::before {
+  transform: scaleY(1);
+}
+
+.ph__partner:last-child {
+  border-bottom: 1px solid var(--color-border-light);
+}
+
+.ph__partner h3 {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+  transition: color 0.3s ease;
+}
+
+.ph__partner:hover h3 {
+  color: var(--color-primary);
+}
+
+.ph__partner p {
+  font-size: 0.95rem;
+  line-height: 1.75;
+}
+
+@media (max-width: 1024px) {
+  .ph__section {
+    padding: 0 2rem;
+  }
+  .ph__hero-image {
+    padding: 0 2rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .ph__section {
+    padding: 0 1.25rem;
+  }
+  .ph__hero {
+    padding: 4rem 1.25rem 2rem;
+  }
+  .ph__hero-image {
+    padding: 0 1.25rem;
+  }
+}

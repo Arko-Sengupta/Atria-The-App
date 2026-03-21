@@ -1,0 +1,44 @@
+{
+  "Logo": "atria",
+  "Tagline": "The future of preventive medicine is here.",
+  "Newsletter": {
+    "Label": "Subscribe to the Atria newsletter",
+    "Placeholder": "Enter your email",
+    "ButtonText": "Subscribe",
+    "SuccessMessage": "Thanks for signing up!"
+  },
+  "Columns": [
+    {
+      "Title": "Atria Institute",
+      "Links": [
+        { "Label": "Atria Health Institute", "To": "/institute" },
+        { "Label": "Our Doctors", "To": "/doctors" },
+        { "Label": "Locations", "To": "/locations" },
+        { "Label": "Contact Us", "To": "/contact-us" }
+      ]
+    },
+    {
+      "Title": "Our Work",
+      "Links": [
+        { "Label": "Atria Research Institute", "To": "/research" },
+        { "Label": "Health Education", "To": "/education" },
+        { "Label": "Public Health", "To": "/public-health" },
+        { "Label": "Our Story", "To": "/our-story" }
+      ]
+    },
+    {
+      "Title": "Legal",
+      "Links": [
+        { "Label": "Terms & Conditions", "To": "/terms" },
+        { "Label": "Privacy Policy", "To": "/privacy-policy" },
+        { "Label": "Privacy Practices", "To": "/privacy-practices" }
+      ]
+    }
+  ],
+  "BottomLinks": [
+    { "Label": "Member Portal", "UrlKey": "MemberPortal", "External": true },
+    { "Label": "membership@atria.org", "UrlKey": "MembershipEmail", "External": false },
+    { "Label": "Careers", "UrlKey": "Careers", "External": true }
+  ],
+  "Copyright": "2026 Atria Health LLC"
+}
